@@ -10,4 +10,4 @@ while trying < limit:
         print("Selamat, kamu menang")
         break
 
-    trying += 1
+    trying += 1 
