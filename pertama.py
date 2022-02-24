@@ -1,0 +1,5 @@
+print("Hello BrotoFS")
+print("Broto")
+print("FS")
+print(100)
+print("Python "*3)
